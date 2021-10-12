@@ -1,0 +1,10 @@
+﻿body {
+    font-family: Calibri, sans-serif;
+    background-color: lightgrey; 
+}
+
+.nasa-pic {
+    border: ridge 5px;
+    border-color: brown;
+    width: 600px;
+}
